@@ -21,5 +21,5 @@ cmd/aqchain/aqchain_browser
 cmd/puppeth/puppeth
 tests/tps/tps
 tests/sc/sc
-cmd/abigen/abigen
+build/bin/abigen
 cmd/ethkey/ethkey
